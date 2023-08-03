@@ -1,4 +1,7 @@
 <?php
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
+
 echo "Start of PHP code.<br>";
 
 session_start();
@@ -34,8 +37,8 @@ if ($fe) { // Check if the result is not empty
     $_SESSION['email'] = $fe[4];
 
     if ($fe[3] == 'admin') {
-        header("location: admin/home.php");
         echo "Redirecting to admin/home.php.<br>";
+        header("location: admin/home.php");
         exit(); // Stop executing further
     } else {
         echo "Invalid user name and password.<br>";
