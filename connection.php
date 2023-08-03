@@ -8,7 +8,7 @@ class connection
 
     function getconnect()
     {
-        $this->con = mysqli_connect("localhost", "bibin", "admin");
+        $this->con = mysqli_connect("localhost", "admin", "admin");
         if (!$this->con) {
             die("Connection failed: " . mysqli_connect_error());
         }
