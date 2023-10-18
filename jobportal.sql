@@ -72,18 +72,19 @@ CREATE TABLE `postjob` (
 --
 
 INSERT INTO `postjob` (`id`, `jobcode`, `title`, `comp`, `type`, `loc`, `des`, `exp`, `website`, `date`, `ldate`) VALUES
-(1, '', 'python', 'az', 'on', 'kottayam', '', 'freshers ', '', '', ''),
-(3, '', 'python', 'e', 'free', 'kottayam', 'number of jobs available', '', '', '', ''),
-(4, '1002', 'php ', 'Logic softwares', 'term', 'eranakulam', 'salary Pakege \r\nexperinced candiate\r\n', '', '', '', ''),
-(5, '', 'php', 'helo company', 'full', 'alappuzha', 'other requirements...', '', '', '', ''),
-(6, '1003', 'php', 'i net info tech kochi', 'free', 'eranakulam', 'About the company....', '1-8 yrs', '', '', ''),
-(7, '', 'web development internship', 'tesz', 'Internship', 'alappuzha', 'about the company:\r\n\r\nabout the internship/job:\r\n\r\nWho can apply:\r\n\r\nother requirements:\r\n\r\nnumber of internship/jobs available:\r\n\r\ncategories:', 'fresher', '', '', ''),
-(8, '1001', 'php', 'automate SMB', 'Freelance', 'Chenni', 'zxcvbnmasdfghjklqwertyuiop', '0-2 year', 'serverfosters.gmail.com', '', ''),
-(9, '1004', 'php', 'Logi software solution', 'Part  Time', 'Eranakulam', 'qwertyuiopasdfghjkllzxcvbnm', '0-2 year', 'contact@serverfosters.com', '', ''),
-(10, '1004', 'php', 'Server fosters technologis', 'Part  Time', 'Eranakulam', 'zxcvbnmasdfghjkl', '0-1yr', 'www.google.com', '', ''),
-(11, '1005', 'python', 'Zh health care', 'Full Time', 'Trivandrum', 'qwertyuiopasdfghjklzxcvbnm,', 'fresher', 'www.', '2019-11-05', ''),
-(12, '11', 'e', 'az', 'Part  Time', 'Eranakulam', 'qwerfghj', '0-1yr', 'contact@serverfosters.com', '2019-11-05', ''),
-(13, '1006', 'html developer', 'digital mesh', 'Part  Time', 'Trivandrum', 'Job Summary\r\nLooking for HTML developers who has very good knowledge of HTML conversion of Designs using Dreamweaver, CSS, Bootstrap, Responsive websites\r\nResponsibilities and Duties\r\n\r\nCode Websites.\r\nEnsure Cross-Platform Functionality\r\nMeet Publication Deadline.\r\nCollaborate with Designers.\r\nTest Websites.', '0-1yr', 'contact@serverfosters.com', '2019 Nov 08', '2019-11-14');
+(1, '', 'python', 'az', 'on', 'London', '', 'freshers ', '', '', ''),
+(3, '', 'python', 'e', 'free', 'Birmingham', 'number of jobs available', '', '', '', ''),
+(4, '1002', 'php ', 'Logic softwares', 'term', 'Manchester', 'salary Package \r\nexperienced candidate\r\n', '', '', '', ''),
+(5, '', 'php', 'helo company', 'full', 'Liverpool', 'other requirements...', '', '', '', ''),
+(6, '1003', 'php', 'i net info tech kochi', 'free', 'Glasgow', 'About the company....', '1-8 yrs', '', '', ''),
+(7, '', 'web development internship', 'tesz', 'Internship', 'Cardiff', 'about the company:\r\n\r\nabout the internship/job:\r\n\r\nWho can apply:\r\n\r\nother requirements:\r\n\r\nnumber of internship/jobs available:\r\n\r\ncategories:', 'fresher', '', '', ''),
+(8, '1001', 'php', 'automate SMB', 'Freelance', 'Edinburgh', 'zxcvbnmasdfghjklqwertyuiop', '0-2 year', 'serverfosters.gmail.com', '', ''),
+(9, '1004', 'php', 'Logi software solution', 'Part  Time', 'Belfast', 'qwertyuiopasdfghjkllzxcvbnm', '0-2 year', 'contact@serverfosters.com', '', ''),
+(10, '1004', 'php', 'Server fosters technologies', 'Part  Time', 'Leeds', 'zxcvbnmasdfghjkl', '0-1yr', 'www.google.com', '', ''),
+(11, '1005', 'python', 'Zh health care', 'Full Time', 'Manchester', 'qwertyuiopasdfghjklzxcvbnm,', 'fresher', 'www.', '2019-11-05', ''),
+(12, '11', 'e', 'az', 'Part  Time', 'Belfast', 'qwerfghj', '0-1yr', 'contact@serverfosters.com', '2019-11-05', ''),
+(13, '1006', 'html developer', 'digital mesh', 'Part  Time', 'Liverpool', 'Job Summary\r\nLooking for HTML developers who have very good knowledge of HTML conversion of Designs using Dreamweaver, CSS, Bootstrap, Responsive websites\r\nResponsibilities and Duties\r\n\r\nCode Websites.\r\nEnsure Cross-Platform Functionality\r\nMeet Publication Deadline.\r\nCollaborate with Designers.\r\nTest Websites.', '0-1yr', 'contact@serverfosters.com', '2019 Nov 08', '2019-11-14');
+
 
 --
 -- Indexes for dumped tables
