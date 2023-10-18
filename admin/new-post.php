@@ -158,21 +158,23 @@
                <label class="font-weight-bold" for="fullname">Location</label>
                   <select name="loc" class="form-control">
 				 <option value="0">---Select Location---</option>
-				 <optgroup label="Kerala">
-				 <option value="Trivandrum">Trivandrum</option>
-                                        <option value="Kollam">Kollam</option>
-                                        <option value="Pathanamthitta">Pathanamthitta</option>
-                                        <option value="Alappuzha">Alappuzha</option>
-					<option value="Kottayam">Kottayam</option>
-					<option value="Idukki">Idukki</option>
-					<option value="Eranakulam">Eranakulam</option>
-					<option value="Thrissur">Thrissur</option>
-                                        <option value="Palakkad">Palakkad</option>
-                                        <option value="Malappuram">Malappuram</option>
-                                        <option value="Calicut">Calicut</option>
-					<option value="Wayanad">Wayanad</option>
-					<option value="Kannur">Kannur</option>
-					<option value="Kasaragod">Kasaragod</option>
+				 <optgroup label="United Kingdom">
+				 <option value="London">London</option>
+				<option value="Manchester">Manchester</option>
+				<option value="Birmingham">Birmingham</option>
+				<option value="Liverpool">Liverpool</option>
+				<option value="Edinburgh">Edinburgh</option>
+				<option value="Glasgow">Glasgow</option>
+				<option value="Cardiff">Cardiff</option>
+				<option value="Leeds">Leeds</option>
+				<option value="Belfast">Belfast</option>
+				<option value="Cambridge">Cambridge</option>
+				<option value="Oxford">Oxford</option>
+				<option value="York">York</option>
+				<option value="Newcastle">Newcastle</option>
+				<option value="Sheffield">Sheffield</option>
+				<option value="Nottingham">Nottingham</option>
+
 				 </optgroup>
 				 
 				
